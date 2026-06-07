@@ -164,24 +164,15 @@ Additional tools and libraries:
 
 ---
 
-## GitHub stats
+## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShAmoNiA&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShAmoNiA&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Contribution activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShAmoNiA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShAmoNiA&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShAmoNiA&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShAmoNiA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShAmoNiA&theme=tokyonight" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShAmoNiA&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 ---
