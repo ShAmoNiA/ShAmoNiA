@@ -1,21 +1,220 @@
-# 💫 About Me:
-Welcome to my GitHub profile! My name is Shayan, and I'm a AI and software developer passionate about coding and creating innovative solutions.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shayan.moo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayan-mousavinia) 
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-
-## 📊 Stats
+<h1 align="center">Hi, I'm Shayan Mousavinia</h1>
 
 <p align="center">
-  <img width="352.5" src="https://streak-stats.demolab.com/?user=ShAmoNiA&theme=dark&hide_border=true" />
-  
-  <img src="https://github-readme-activity-graph.cyclic.app/graph/?username=ShAmoNiA&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true" width="396.5"/>
-  
-  <img width="434.5" src="https://github-readme-stats.vercel.app/api?username=ShAmoNiA&text_bold=false&count_private=true&include_all_commits=true&show_icons=true&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true" />
-  
-  <img width="314.5" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShAmoNiA&langs_count=8&layout=compact&theme=dark&hide_border=true&title_color=FA8B00&hide=jupyter%20notebook&exclude_repo=Berkeley-CS188-Projects,IUST-MicroLab-Assignments,XO-ATmega32,IoT-Sound-Level-Monitor,SmartRoom-ARM-STM32" />
+  <b>Software Engineer | Backend Developer | AI / ML Enthusiast</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShAmoNiA">
+    <img src="https://komarev.com/ghpvc/?username=ShAmoNiA&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/ShAmoNiA">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/shayan-mousavinia">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## About me
+
+I'm a software engineer based in Spain, with experience across backend systems, APIs, automation, data processing, and applied AI.
+
+My main technical interests are:
+
+- Backend engineering and API design
+- Python-based services and automation
+- Computer vision and deep learning
+- NLP, LLMs, and AI-assisted development
+- Data pipelines, analytics, and applied machine learning
+- Cloud-native and production-oriented software systems
+
+I like building projects that connect real-world software engineering with AI and data: APIs, automation tools, ML experiments, backend services, and research-oriented prototypes.
+
+---
+
+## Current focus
+
+- Building reliable backend services with Python
+- Working with AI-assisted development tools
+- Exploring LLMs, VLMs, and applied machine learning
+- Improving code quality, testing, and system design
+- Connecting software engineering with research and experimentation
+
+---
+
+## Featured work
+
+### AI, Machine Learning & Research
+
+| Project | Description | Main area |
+|---|---|---|
+| [SemEval-2024-Task-9](https://github.com/ShAmoNiA/SemEval-2024-Task-9) | Work related to SemEval 2024 Task 9, focused on language understanding, reasoning, and wordplay-style NLP. | NLP / Research |
+| [Auto-Augmented Transparent Cage Images](https://github.com/ShAmoNiA/Auto-Augmented-Transparent-Cage-Images-for-Improved-Bird-Detection-in-Cages) | Research-oriented project for improving bird detection in cage environments using augmented image data. | Computer Vision |
+| [Birds_DataSet](https://github.com/ShAmoNiA/Birds_DataSet) | Collection of bird images and videos in cage and natural environments, useful for detection and vision experiments. | Dataset / Computer Vision |
+| [yolov5_addingCage](https://github.com/ShAmoNiA/yolov5_addingCage) | YOLOv5-based experimentation around cage-aware bird detection. | Object Detection |
+| [Perf-abnormality-detection](https://github.com/ShAmoNiA/Perf-abnormality-detection) | Notebook-based abnormality detection work for performance-related data. | ML / Data Analysis |
+| [Deep-Learning-HW](https://github.com/ShAmoNiA/Deep-Learning-HW) | Deep learning coursework and experiments. | Deep Learning |
+| [Computer-Vision-HWs](https://github.com/ShAmoNiA/Computer-Vision-HWs) | Computer vision assignments and experiments. | Computer Vision |
+| [Genetic_algorithm](https://github.com/ShAmoNiA/Genetic_algorithm) | Genetic algorithm implementation and experimentation. | Optimization / AI |
+| [recommendation-system](https://github.com/ShAmoNiA/recommendation-system) | Recommendation-system experiment. | ML / Recommenders |
+| [Chatbot](https://github.com/ShAmoNiA/Chatbot) | NLP chatbot project for user interaction and response generation. | NLP / Chatbot |
+
+---
+
+### Backend, APIs & Systems
+
+| Project | Description | Main area |
+|---|---|---|
+| [PatientPulse-](https://github.com/ShAmoNiA/PatientPulse-) | Python backend project focused on API and data handling. | Backend / API |
+| [Movie-Database-API](https://github.com/ShAmoNiA/Movie-Database-API) | Movie database API project. | Backend / API |
+| [Middleware](https://github.com/ShAmoNiA/Middleware) | Python middleware for communication between a real server and customer-facing components. | Backend / Middleware |
+| [urbanspot-backend](https://github.com/ShAmoNiA/urbanspot-backend) | Backend service project. | Backend |
+| [downloadha-vercel-proxy](https://github.com/ShAmoNiA/downloadha-vercel-proxy) | Minimal Next.js / Vercel fetch proxy. | Web / Proxy |
+| [server_checker](https://github.com/ShAmoNiA/server_checker) | Utility for checking server connectivity across different DNS servers. | Networking / Tools |
+| [Diameter_Parser](https://github.com/ShAmoNiA/Diameter_Parser) | Parser-related Python project. | Protocols / Parsing |
+| [LDAP](https://github.com/ShAmoNiA/LDAP) | LDAP-related C# project. | Identity / Backend |
+| [chatroom](https://github.com/ShAmoNiA/chatroom) | Java chatroom project. | Networking / Java |
+| [Bootcamp-Backend-2021](https://github.com/ShAmoNiA/Bootcamp-Backend-2021) | Backend bootcamp exercises and projects. | Backend Learning |
+
+---
+
+### Security, Data & Tools
+
+| Project | Description | Main area |
+|---|---|---|
+| [VirusTotal_Android](https://github.com/ShAmoNiA/VirusTotal_Android) | Python project related to Android and VirusTotal-style security/data analysis. | Security / Data |
+| [iot-Secure_cloud-_storage-project](https://github.com/ShAmoNiA/iot-Secure_cloud-_storage-project) | IoT and secure cloud storage project. | IoT / Cloud |
+| [trading-system](https://github.com/ShAmoNiA/trading-system) | Automated trading system experiment for stocks or cryptocurrencies. | Automation / Finance |
+| [IllusionDiffusion-API_huggingface](https://github.com/ShAmoNiA/IllusionDiffusion-API_huggingface) | Hugging Face / notebook-based API experiment. | AI / API |
+| [ShAmoNiA.github.io](https://github.com/ShAmoNiA/ShAmoNiA.github.io) | Personal GitHub Pages site. | Web |
+| [Memory-Game](https://github.com/ShAmoNiA/Memory-Game) | Python memory game project. | Python / Game |
+| [swot](https://github.com/ShAmoNiA/swot) | Fork of JetBrains/swot. | Education / Contribution |
+
+---
+
+## Tech stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,cpp,c,java,go,html,css" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,dotnet" />
+</p>
+
+### AI, ML & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+</p>
+
+Additional tools and libraries:
+
+- NumPy
+- Pandas
+- SciPy
+- Jupyter Notebook
+- OpenCV
+- NLP pipelines
+- Computer vision pipelines
+- Data analysis workflows
+
+### Cloud, DevOps & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,postgres,mysql,mongodb,redis,nginx,linux,git,github" />
+</p>
+
+---
+
+## Areas I enjoy working on
+
+### Backend engineering
+
+- REST API design
+- Service architecture
+- Middleware and integration layers
+- Data modeling
+- Authentication and identity-related systems
+- Automation scripts and developer tools
+
+### AI and applied machine learning
+
+- Computer vision
+- Object detection
+- Dataset preparation
+- Model experimentation
+- NLP and language reasoning
+- AI-assisted software development
+
+### Data and automation
+
+- ETL-style workflows
+- Data cleaning and analysis
+- Notebook-based experimentation
+- Monitoring and abnormality detection
+- API-based data collection
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShAmoNiA&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShAmoNiA&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShAmoNiA&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShAmoNiA&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShAmoNiA&theme=tokyonight" />
+</p>
+
+---
+
+## What I'm looking for
+
+I'm interested in engineering work where backend systems, data, and AI meet.
+
+Good matches include:
+
+- Backend engineer roles
+- Python engineer roles
+- AI/ML engineering projects
+- Computer vision projects
+- Data/API platform projects
+- LLM or AI-assisted development workflows
+- Cloud-native backend services
+
+---
+
+## Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/shayan-mousavinia">
+    <img src="https://img.shields.io/badge/LinkedIn-Shayan%20Mousavinia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ShAmoNiA">
+    <img src="https://img.shields.io/badge/GitHub-ShAmoNiA-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software at the intersection of backend systems, AI, and applied machine learning.</i>
 </p>
